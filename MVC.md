@@ -1,0 +1,1 @@
+El archivo .htacces es un archivo de texto para configurar la forma en que tu servidor web responde a las peticiones de los usuarios. **htaccess** se convirtió en un estándar y es compatible con los servidores web más utilizados.

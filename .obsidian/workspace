@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "e3d699a7d2ef990a",
+    "type": "split",
+    "children": [
+      {
+        "id": "402fa3fa5bc2fc5f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Comandos Básicos.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a6d0c31c26e739a",
+    "type": "split",
+    "children": [
+      {
+        "id": "daae5ee383910673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad2f93a4cd3d2fd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e57c312a319daf64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254
+  },
+  "right": {
+    "id": "7d2e8277b23f9fad",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ad65fd9b956803a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d2dd06b018e7452",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Comandos Básicos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "402fa3fa5bc2fc5f",
+  "lastOpenFiles": [
+    "Comandos Básicos.md",
+    "Untitled.md",
+    "MVC.md",
+    "sistemas operativos.md",
+    "Kernel de windows y mac.md"
+  ]
+}
